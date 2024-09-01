@@ -1,0 +1,13 @@
+.social{
+  display:none;
+}
+.navbar .container{
+grid-template-columns:1fr;
+}
+.navbar .container ul ,
+.navbar .container .logo{
+  justify-self:center;
+}
+.navbar .container ul{
+  justify-self:center;
+}
